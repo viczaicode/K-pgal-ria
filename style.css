@@ -1,0 +1,38 @@
+main {
+    width: 55%;
+    margin: auto;
+}
+
+
+.galeria {
+
+}
+.galeria .kep {
+   
+}
+.galeria img {
+    width: 170px;
+    border: 1px solid gray; 
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.nagykep div {
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.nagykep img {
+    width: 600px;
+}
+
+
+
+.nagykep {
+   
+    border: 1px solid gray; 
+    border-radius: 10px;
+}
+.nagykep img {
+    
+}
+
